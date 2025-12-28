@@ -29,12 +29,13 @@ Researchers can use DrugCAD to quickly explore candidate molecules **before** co
 ## Project Structure
 
 drugcad/
-├── components.json # Core component library (scaffolds, groups, linkers)
-├── component_index.json # Searchable index of components
-├── 10_known_drugs.csv # Example dataset of known drugs
-├── validator.py # Core validation engine (Lipinski, basic checks)
-├── test_week1.py # Initial tests for the validator
-├── WEEK_1_ACTION_PLAN.md # Development log / roadmap (internal docs)
-├── QUICK_REFERENCE.md # Commands & code snippets (internal docs)
-├── drug_design_research_roadmap.md # Full 8‑month research roadmap
-└── README.md # This file
+├── components.json               # Core component library (scaffolds, groups, linkers)
+├── component_index.json          # Searchable index of components
+├── 10_known_drugs.csv            # Example dataset of known drugs
+├── validator.py                  # Core validation engine (Lipinski, basic checks)
+├── test_week1.py                 # Initial tests for the validator
+├── WEEK_1_ACTION_PLAN.md         # Week 1 development plan / roadmap (internal docs)
+├── QUICK_REFERENCE.md            # Commands & code snippets (internal docs)
+├── drug_design_research_roadmap.md  # Full 8‑month research roadmap
+└── README.md                     # Main project description
+
