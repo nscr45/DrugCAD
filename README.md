@@ -28,6 +28,7 @@ Researchers can use DrugCAD to quickly explore candidate molecules **before** co
 
 ## Project Structure
 
+```text
 drugcad/
 ├── components.json               # Core component library (scaffolds, groups, linkers)
 ├── component_index.json          # Searchable index of components
@@ -38,4 +39,5 @@ drugcad/
 ├── QUICK_REFERENCE.md            # Commands & code snippets (internal docs)
 ├── drug_design_research_roadmap.md  # Full 8‑month research roadmap
 └── README.md                     # Main project description
+
 
